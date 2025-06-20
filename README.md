@@ -1,7 +1,7 @@
 # 🛒 Power BI Project: Super Store Sales Analysis
 
 ## 📌 Overview
-This Power BI project analyzes retail sales data from a fictional Super Store. The interactive dashboard presents key business insights into revenue, product performance, customer segments, regions, and shipping behavior.
+This Power BI project analyzes retail sales data from a Super Store. The interactive dashboard presents key business insights into revenue, product performance, customer segments, regions, and shipping behavior.
 
 ## 🎯 Objectives
 - Track and visualize key performance indicators (KPIs).
